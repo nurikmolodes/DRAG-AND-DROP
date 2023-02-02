@@ -9,7 +9,7 @@ const Success = () => {
           <img src={success} alt="vector" />
         </div>
         <div className="bottom">
-          <h2 style={{ color: "#5AB98F" }}>Файл успешно загружен</h2>
+          <h2 style={{ color: "#5AB98F", fontWeight: 200, fontFamily: 'Light' }}>Файл успешно загружен</h2>
         </div>
       </div>
     </div>
